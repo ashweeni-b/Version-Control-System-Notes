@@ -5,17 +5,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Types](#types)
-4. [Examples](#examples)
-5. [Questions](#questions)
-6. [References](#references)
-
----
-
 ## 1. Introduction
 
 - Version Control System (VCS) is a tool used to track and manage the changes in project's codebase. <br>
