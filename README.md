@@ -16,11 +16,11 @@ ____
 6. References
 
 
-📄 See [`notes.md`](./notes.md) for full detailed notes.
+📄 See [notes.md](./notes.md) for full detailed notes.
 
 ____
 
 ### 🔄 Status
 
 > 🧠 Completed learning <br>
-> 🗓️ Last Update: 2025-08-02
+> 🗓️ Last Update: 2025-08-03
