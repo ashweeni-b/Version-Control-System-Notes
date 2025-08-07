@@ -1,6 +1,6 @@
 ## 📒 Version Control System – Notes
 
-> 🗓️ Last Updated: 2025-08-02 <br>
+> 🗓️ Last Updated: 2025-08-07 <br>
 > 🏷️ Part of my Week 1 of #CodetoCareer journey
 
 ---
