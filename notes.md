@@ -43,7 +43,7 @@ Remote Repository - Project version is stored on a server accessible to other <b
 - No collaboration <br>
 - All files are stored locally within local system and local database <br>
 
-![Local Version Control System]()
+<img src = "https://github.com/ashweeni-b/Version-Control-System-Notes/blob/main/assets/Local%20Version%20Control%20System.jpg" alt = "Local Version Control System" width = "300" /> <br>
 
 <li>Centralized Version Control System </li>
 - Remote repository is present <br>
@@ -51,7 +51,7 @@ Remote Repository - Project version is stored on a server accessible to other <b
 - Changes are saved directly to the remote repository only <br>
 - Risk of modifications in other developers work <br>
 
-![Centralized Version Control System]() <br>
+<img src = "https://github.com/ashweeni-b/Version-Control-System-Notes/blob/main/assets/Centralised%20Version%20Control%20System.jpg" width = "300" /> <br>
 
 <li> Distributed Version Control System </li>
 - Remote repository is present <br>
@@ -60,7 +60,7 @@ Remote Repository - Project version is stored on a server accessible to other <b
 - Each developer works on the local repository <br>
 - Changes are first saved in the local repository and then it is saved to the remote repository <br>
 
-![Distributed Version Control System]() <br>
+<img src = "https://github.com/ashweeni-b/Version-Control-System-Notes/blob/main/assets/Distributed%20Version%20Control%20System.jpg" width = "300" /> <br>
 
 </ol>
 
