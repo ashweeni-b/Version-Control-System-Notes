@@ -1,8 +1,5 @@
 ## 📒 Version Control System – Notes
 
-> 🗓️ Last Updated: 2025-08-07 <br>
-> 🏷️ Part of my Week 1 of #CodetoCareer journey
-
 ---
 
 ## 1. Introduction
@@ -84,4 +81,3 @@ Remote Repository - Project version is stored on a server accessible to other <b
 
 - [Types of Version Control System](https://medium.com/version-control-system/types-of-version-control-system-766a6b656088)
 - [Examples of Version Control System](https://www.perforce.com/blog/vcs/what-is-version-control)
-- [CodetoCareer - Week 1](https://www.linkedin.com/posts/activity-7347684791116292096-e6O7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-UhZwBDTW7JxUFdBcAbzubFz_HhQRI1Ng)
