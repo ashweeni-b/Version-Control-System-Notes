@@ -19,8 +19,3 @@ ____
 📄 See [notes.md](./notes.md) for full detailed notes.
 
 ____
-
-### 🔄 Status
-
-> 🧠 Completed learning <br>
-> 🗓️ Last Update: 2025-08-03
